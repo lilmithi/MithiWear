@@ -1,6 +1,6 @@
-const shoeImg = document.getElementById("shoeimage1");
-shoeImg.style.backgroundImage =
-  'url("https://images.asos-media.com/products/nike-renew-retaliation-4-sneakers-in-white/202419148-1-white")';
+// const shoeImg = document.getElementById("shoeimage1");
+// shoeImg.style.backgroundImage =
+//   'url("https://images.asos-media.com/products/nike-renew-retaliation-4-sneakers-in-white/202419148-1-white")';
 document.addEventListener("DOMContentLoaded", () => {
   const greeting = document.getElementById("greeting");
   const day = new Date();
@@ -21,22 +21,34 @@ document.addEventListener("DOMContentLoaded", () => {
     greeting.childNodes[1].textContent = "bedtime";
   }
 
-  // async function getShoes(url) {
-  //   const response = await fetch(url, {
-  //     method: "GET",
-  //     headers: {
-  //       "X-RapidAPI-Key": "a47ef9d23cmsh89c966b75a30debp170ca9jsnaa11d077ac0a",
-  //       "X-RapidAPI-Host": "asos2.p.rapidapi.com",
-  //     },
-  //   });
-  //   const resp = await response.json();
-  //   return resp;
-  // }
-  // getShoes(
-  //   "https://asos2.p.rapidapi.com/products/v2/list?store=US&offset=0&categoryId=4209&limit=48&country=US&sort=freshness&currency=USD&sizeSchema=US&lang=en-US"
-  // ).then((shoes) => {
-  //   shoes.products.forEach((shoe) => {
-  //     console.log(shoe.name);
-  //   });
-  // });
+  const shoes = document.querySelector("div.shoes");
+  async function getShoes(url) {
+    const promise = await fetch(url);
+    const resp = await promise.json();
+    return resp;
+  }
+  getShoes("http://localhost:3000/products").then((products) => {
+    products.forEach((product) => {
+      const shoe = document.createElement("div");
+      const shoeImage = document.createElement("div");
+      const shoeDescription = document.createElement("div");
+      const shoePrice = document.createElement("div");
+      const addCart = document.createElement("div");
+      shoe.id = product.id;
+      shoe.className = "shoe";
+      shoeImage.className = "shoe-image";
+      shoeImage.style.backgroundImage = `url(https://${product.imageUrl})`;
+      shoeDescription.textContent = product.name;
+      shoeDescription.className = "shoe-description";
+      shoePrice.textContent = `$${product.price.current.value}`;
+      shoePrice.className = "shoe-price";
+      addCart.textContent = "Add to cart";
+      addCart.className = "add-cart";
+      shoe.appendChild(shoeImage);
+      shoe.appendChild(shoeDescription);
+      shoe.appendChild(shoePrice);
+      shoe.appendChild(addCart);
+      shoes.appendChild(shoe);
+    });
+  });
 });
