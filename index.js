@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  
   const brandNames = document.querySelectorAll("li.brandName");
+  const inputSearch = document.getElementById("search");
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -73,7 +73,17 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
-      // console.log(myShoe.textContent);
+      inputSearch.addEventListener("keyup", () => {
+        if (
+          !myShoe.childNodes[1].textContent
+            .toLowerCase()
+            .startsWith(inputSearch.value.toLowerCase().slice(0, 4))
+        ) {
+          myShoe.style.display = "none";
+        } else {
+          myShoe.style.display = "block";
+        }
+      });
     });
   });
 });

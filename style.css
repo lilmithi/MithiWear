@@ -134,6 +134,7 @@ footer {
   z-index: 1;
   height: 15vh;
   margin-top: 4em;
+  position: absolute;
   width: 100%;
   border-bottom: none;
   background-color: violet;
