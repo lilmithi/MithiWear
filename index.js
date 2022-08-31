@@ -22,21 +22,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const shoes = document.querySelector("div.shoes");
   async function getShoes(url) {
-    const promise = await fetch(url, {
-      method: "GET",
-      headers: {
-        "X-RapidAPI-Key": "a47ef9d23cmsh89c966b75a30debp170ca9jsnaa11d077ac0a",
-        "X-RapidAPI-Host": "asos2.p.rapidapi.com",
-      },
-    });
+    const promise = await fetch(url);
     const resp = await promise.json();
     return resp;
   }
   getShoes(
-    "https://asos2.p.rapidapi.com/products/v2/list?store=US&offset=0&categoryId=4209&limit=48&country=US&sort=freshness&currency=USD&sizeSchema=US&lang=en-US"
+    "http://localhost:3000/products"
   ).then((products) => {
     console.log(products);
-    products.products.forEach((product) => {
+    products.forEach((product) => {
       const shoe = document.createElement("div");
       const shoeImage = document.createElement("div");
       const shoeDescription = document.createElement("div");

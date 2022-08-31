@@ -130,14 +130,18 @@ nav {
 
 footer {
   grid-area: footer;
-  background-color: #fff;
+  background: rgb(181, 164, 164);
+  background: linear-gradient(
+    90deg,
+    rgba(181, 164, 164, 0.6362920168067228) 1%,
+    rgba(246, 5, 5, 1) 32%
+  );
   z-index: 1;
   height: 15vh;
   margin-top: 4em;
   position: absolute;
   width: 100%;
   border-bottom: none;
-  background-color: violet;
 }
 ul {
   list-style: none;

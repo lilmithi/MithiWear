@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -802,6 +801,81 @@
       "sponsoredCampaignId": null
     },
     {
+      "id": 2028095205,
+      "name": "puma original navy green X white sneakers",
+      "price": {
+        "current": { "value": 180, "text": "$180.00" },
+        "previous": { "value": null, "text": "" },
+        "rrp": { "value": null, "text": "" },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Green",
+      "colourWayId": 2028419310,
+      "brandName": "Puma",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 1669242399,
+      "productType": "Product",
+      "url": "https://www.westendwell.ca/product/puma/puma-sneakers/puma-sneakers-14/",
+      "imageUrl": "www.westendwell.ca/wp-content/uploads/2021/07/puma20sneakers-146cnd.jpg",
+      "videoUrl": null,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null
+    },
+    {
+      "id": 20281025205,
+      "name": "puma Suede Classic XXL",
+      "price": {
+        "current": { "value": 100, "text": "$100.00" },
+        "previous": { "value": null, "text": "" },
+        "rrp": { "value": null, "text": "" },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "black/white",
+      "colourWayId": 2020849310,
+      "brandName": "Puma",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 16692422399,
+      "productType": "Product",
+      "url": "https://www.efootwear.eu/trainers-puma-suede-classic-xxi-374915-01-puma-black-puma-white.html",
+      "imageUrl": "www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208449229_01_rz.jpg",
+      "videoUrl": null,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null
+    },
+    {
+      "id": 20280100205,
+      "name": "puma original rainbow sneakers",
+      "price": {
+        "current": { "value": 280, "text": "$280.00" },
+        "previous": { "value": null, "text": "" },
+        "rrp": { "value": null, "text": "" },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "rainbow",
+      "colourWayId": 20299419310,
+      "brandName": "Puma",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 1669285609,
+      "productType": "Product",
+      "url": "https://www.pinterest.com/pin/95490454600408327/",
+      "imageUrl": "i.pinimg.com/originals/78/65/fd/7865fd08997314b5d30cd5cd9b943f44.jpg",
+      "videoUrl": null,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null
+    },
+    {
       "id": 202850032,
       "name": "adidas Originals Retropy F2 sneakers in green and red",
       "price": {
@@ -872,6 +946,31 @@
       "productType": "Product",
       "url": "nike/nike-air-force-1-07-sneakers-in-white-and-black/prd/202962156?clr=white&colourWayId=202962158",
       "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-sneakers-in-white-and-black/202962156-1-white",
+      "videoUrl": null,
+      "isSellingFast": false,
+      "sponsoredCampaignId": null
+    },
+    {
+      "id": 2022962156,
+      "name": "Vans Old Skool",
+      "price": {
+        "current": { "value": 70, "text": "$70.00" },
+        "previous": { "value": null, "text": "" },
+        "rrp": { "value": null, "text": "" },
+        "isMarkedDown": false,
+        "isOutletPrice": false,
+        "currency": "USD"
+      },
+      "colour": "Black/white",
+      "colourWayId": 992962158,
+      "brandName": "Vans",
+      "hasVariantColours": false,
+      "hasMultiplePrices": false,
+      "groupId": null,
+      "productCode": 1192041089,
+      "productType": "Product",
+      "url": "https://www.vans.com/en-us/shoes-c00081/old-skool-pvn000d3hy28",
+      "imageUrl": "images.vans.com/is/image/Vans/VN000D3HY28-HERO?wid=800&hei=800&fmt=jpeg&qlt=50&resMode=sharp2&op_usm=0.9,1.5,8,0",
       "videoUrl": null,
       "isSellingFast": false,
       "sponsoredCampaignId": null
