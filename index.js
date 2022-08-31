@@ -1,6 +1,12 @@
-
-
 document.addEventListener("DOMContentLoaded", () => {
+  const nike = document.getElementById("Nike");
+  const adidas = document.getElementById("adidas");
+  const puma = document.getElementById("puma");
+  const fredPerry = document.getElementById("fred-perry");
+  const asosDesign = document.getElementById("asos-design");
+  const lacoste = document.getElementById("lacoste");
+  const otherDesigns = document.getElementById("other-designs");
+  const brandNames = document.querySelectorAll("li.brandName");
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -22,12 +28,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const shoes = document.querySelector("div.shoes");
   async function getShoes(url) {
-    const promise = await fetch(url);
+    const promise = await fetch(url, {
+      method: "GET",
+      headers: {
+        "X-RapidAPI-Key": "a47ef9d23cmsh89c966b75a30debp170ca9jsnaa11d077ac0a",
+        "X-RapidAPI-Host": "asos2.p.rapidapi.com",
+      },
+    });
     const resp = await promise.json();
     return resp;
   }
-  getShoes("http://localhost:3000/products").then((products) => {
-    products.forEach((product) => {
+  getShoes(
+    "https://asos2.p.rapidapi.com/products/v2/list?store=US&offset=0&categoryId=4209&limit=48&country=US&sort=freshness&currency=USD&sizeSchema=US&lang=en-US"
+  ).then((products) => {
+    console.log(products);
+    products.products.forEach((product) => {
       const shoe = document.createElement("div");
       const shoeImage = document.createElement("div");
       const shoeDescription = document.createElement("div");
@@ -48,6 +63,13 @@ document.addEventListener("DOMContentLoaded", () => {
       shoe.appendChild(shoePrice);
       shoe.appendChild(addCart);
       shoes.appendChild(shoe);
+      brandNames.forEach((child) => {
+        child.addEventListener("click", () => {
+          if (product.name.startsWith(child.textContent.slice(0,2))) {
+            console.log(`${product.name} starts with ${child.textContent}`);
+          }
+        });
+      });
     });
   });
 });

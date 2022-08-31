@@ -94,11 +94,12 @@ header {
   font-size: 80%;
   display: flex;
   align-items: center;
-  gap: 0.75em;
+  gap: 0.5em;
   color: rgba(238, 232, 232, 0.671);
 }
 #greeting span {
   color: rgb(233, 218, 218);
+  font-size: 97.5%;
 }
 main {
   grid-area: main;
@@ -131,7 +132,7 @@ footer {
   grid-area: footer;
   background-color: #fff;
   z-index: 1;
-  height: 25vh;
+  height: 15vh;
   margin-top: 4em;
   width: 100%;
   border-bottom: none;
@@ -180,7 +181,6 @@ div.shoes {
   display: flex;
   flex-direction: column;
   padding-top: 0;
-  /* border: 2px solid; */
   align-items: center;
   border-radius: 1em;
   background-color: rgba(196, 194, 194, 0.212);
@@ -188,7 +188,10 @@ div.shoes {
   -webkit-box-shadow: 1px 16px 19px -5px rgba(195, 199, 202, 0.86);
   -moz-box-shadow: 1px 16px 19px -5px rgba(235, 237, 238, 0.86);
 }
-
+.shoes > div:hover {
+  transform: scale(1.01);
+  transition: ease-in-out 0.5s;
+}
 .shoe-image {
   position: absolute;
   width: 99.7%;
@@ -199,6 +202,7 @@ div.shoes {
   border-top-left-radius: inherit;
   border-top-right-radius: inherit;
 }
+
 .shoe-description {
   position: absolute;
   bottom: 0;
