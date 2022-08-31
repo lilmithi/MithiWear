@@ -1,6 +1,5 @@
-// const shoeImg = document.getElementById("shoeimage1");
-// shoeImg.style.backgroundImage =
-//   'url("https://images.asos-media.com/products/nike-renew-retaliation-4-sneakers-in-white/202419148-1-white")';
+
+
 document.addEventListener("DOMContentLoaded", () => {
   const greeting = document.getElementById("greeting");
   const day = new Date();
