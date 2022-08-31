@@ -92,10 +92,11 @@ header {
   right: 1.5%;
   color: rgb(10, 10, 10);
   font-size: 80%;
+  font-weight: bold;
   display: flex;
   align-items: center;
   gap: 0.5em;
-  color: rgba(238, 232, 232, 0.671);
+  color: rgba(238, 232, 232, 0.897);
 }
 #greeting span {
   color: rgb(233, 218, 218);

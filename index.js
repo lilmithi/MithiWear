@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
   const brandNames = document.querySelectorAll("li.brandName");
   const inputSearch = document.getElementById("search");
+  const company = document.getElementById("company");
+  const shoes = document.querySelector("div.shoes");
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -20,15 +22,12 @@ document.addEventListener("DOMContentLoaded", () => {
     greeting.childNodes[1].textContent = "bedtime";
   }
 
-  const shoes = document.querySelector("div.shoes");
   async function getShoes(url) {
     const promise = await fetch(url);
     const resp = await promise.json();
     return resp;
   }
-  getShoes(
-    "http://localhost:3000/products"
-  ).then((products) => {
+  getShoes("http://localhost:3000/products").then((products) => {
     console.log(products);
     products.forEach((product) => {
       const shoe = document.createElement("div");
@@ -77,6 +76,9 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
           myShoe.style.display = "block";
         }
+      });
+      company.addEventListener("click", () => {
+        myShoe.style.display = "block";
       });
     });
   });
