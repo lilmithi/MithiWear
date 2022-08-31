@@ -1,11 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const nike = document.getElementById("Nike");
-  const adidas = document.getElementById("adidas");
-  const puma = document.getElementById("puma");
-  const fredPerry = document.getElementById("fred-perry");
-  const asosDesign = document.getElementById("asos-design");
-  const lacoste = document.getElementById("lacoste");
-  const otherDesigns = document.getElementById("other-designs");
+  
   const brandNames = document.querySelectorAll("li.brandName");
   const greeting = document.getElementById("greeting");
   const day = new Date();
@@ -79,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
-      console.log(myShoe.textContent);
+      // console.log(myShoe.textContent);
     });
   });
 });
