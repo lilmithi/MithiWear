@@ -1,0 +1,251 @@
+* {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  position: relative;
+  height: 100vh;
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "nav main"
+    "footer footer";
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 1fr 4fr 1fr;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  align-items: center;
+  grid-area: header;
+  position: fixed;
+  height: 20vh;
+  width: 100%;
+  z-index: 1;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 30%,
+    rgb(228, 35, 35) 56%
+  );
+  box-shadow: 1px 16px 19px -5px rgba(231, 234, 236, 0.86);
+  -webkit-box-shadow: 1px 16px 19px -5px rgba(195, 199, 202, 0.86);
+  -moz-box-shadow: 1px 16px 19px -5px rgba(235, 237, 238, 0.86);
+  border-bottom: none;
+}
+
+.company {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+#company-logo img {
+  width: 3em;
+  margin-right: 1em;
+}
+#company-heading {
+  font-size: 2em;
+  font-weight: 400;
+}
+#company-heading span {
+  color: red;
+  font-weight: 500;
+}
+.search-container input {
+  border-radius: 0.5em;
+  border: 1px solid rgb(194, 112, 112);
+  padding: 0.15em 0.5em;
+}
+.search-container button {
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+  border-radius: 0.35em;
+  border: 2px solid red;
+  color: red;
+  background-color: #fff;
+  font-weight: 500;
+}
+
+#cart {
+  display: flex;
+  gap: 0.5em;
+}
+#cart p {
+  color: white;
+}
+#cart span {
+  cursor: pointer;
+  color: #fff;
+}
+#cart span:hover {
+  color: rgb(7, 7, 7);
+}
+#greeting {
+  position: absolute;
+  top: 0;
+  right: 1.5%;
+  color: rgb(10, 10, 10);
+  font-size: 80%;
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  color: rgba(238, 232, 232, 0.671);
+}
+#greeting span {
+  color: rgb(233, 218, 218);
+}
+main {
+  grid-area: main;
+  padding-top: 25vh;
+  background-color: #fff;
+  scroll-margin-top: 20vh;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-left: 0.05em solid red;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+nav {
+  grid-area: nav;
+  position: fixed;
+  padding-top: 22vh;
+  padding-bottom: 2em;
+  display: flex;
+  background-color: #fff;
+  flex-direction: column;
+  width: 20vw;
+  height: 100vh;
+  overflow-y: auto;
+  border-right: none;
+  border-top: none;
+}
+
+footer {
+  grid-area: footer;
+  background-color: #fff;
+  z-index: 1;
+  height: 25vh;
+  margin-top: 4em;
+  width: 100%;
+  border-bottom: none;
+  background-color: violet;
+}
+ul {
+  list-style: none;
+}
+ul#brands {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 0.8em;
+}
+#brand-title {
+  padding-left: 1em;
+}
+#brand-title span {
+  color: red;
+}
+#brands li {
+  padding-top: 0.6em;
+  padding-bottom: 0.6em;
+  border: 1px solid;
+  text-align: left;
+  padding-left: 1em;
+  border: 1px solid rgba(219, 212, 212, 0.692);
+  cursor: pointer;
+}
+#brands li:hover {
+  background-color: red;
+  color: #fff;
+  border-right: 1px solid #fff;
+}
+div.shoes {
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(16.5em, 1fr));
+  gap: 1.5em;
+  row-gap: 3em;
+}
+.shoes > div {
+  position: relative;
+  width: 16em;
+  height: 20em;
+  display: flex;
+  flex-direction: column;
+  padding-top: 0;
+  /* border: 2px solid; */
+  align-items: center;
+  border-radius: 1em;
+  background-color: rgba(196, 194, 194, 0.212);
+  box-shadow: 1px 16px 19px -5px rgba(231, 234, 236, 0.86);
+  -webkit-box-shadow: 1px 16px 19px -5px rgba(195, 199, 202, 0.86);
+  -moz-box-shadow: 1px 16px 19px -5px rgba(235, 237, 238, 0.86);
+}
+
+.shoe-image {
+  position: absolute;
+  width: 99.7%;
+  height: 15em;
+  border: none;
+  background-position: bottom;
+  background-size: cover;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.shoe-description {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 25%;
+  width: 60%;
+  border-bottom-left-radius: inherit;
+  font-size: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  padding: 0.25em;
+  overflow-x: auto;
+}
+.shoe-price {
+  position: absolute;
+  bottom: 12.5%;
+  right: 0;
+  height: 12.5%;
+  width: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: bold;
+  border-left: 2px #fff solid;
+  background-color: rgb(10, 236, 104);
+
+  cursor: default;
+}
+.add-cart {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  height: 12.5%;
+  width: 40%;
+  border-bottom-right-radius: inherit;
+  display: flex;
+  align-items: center;
+  background-color: red;
+  justify-content: center;
+  color: #fff;
+  cursor: pointer;
+  font-size: 90%;
+  border-left: 2px #fff solid;
+}
+.add-cart:hover {
+  background-color: rgba(233, 16, 16, 0.774);
+}
