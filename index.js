@@ -63,13 +63,6 @@ document.addEventListener("DOMContentLoaded", () => {
       shoe.appendChild(shoePrice);
       shoe.appendChild(addCart);
       shoes.appendChild(shoe);
-      brandNames.forEach((child) => {
-        child.addEventListener("click", () => {
-          if (product.name.startsWith(child.textContent.slice(0,2))) {
-            console.log(`${product.name} starts with ${child.textContent}`);
-          }
-        });
-      });
     });
   });
 });
