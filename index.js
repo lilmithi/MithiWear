@@ -64,5 +64,22 @@ document.addEventListener("DOMContentLoaded", () => {
       shoe.appendChild(addCart);
       shoes.appendChild(shoe);
     });
+    const shoe = document.querySelectorAll("div.shoe");
+    shoe.forEach((myShoe) => {
+      brandNames.forEach((brand) => {
+        brand.addEventListener("click", () => {
+          if (
+            !myShoe.childNodes[1].textContent
+              .toLowerCase()
+              .startsWith(brand.textContent.toLowerCase().slice(0, 4))
+          ) {
+            myShoe.style.display = "none";
+          } else {
+            myShoe.style.display = "block";
+          }
+        });
+      });
+      console.log(myShoe.textContent);
+    });
   });
 });
