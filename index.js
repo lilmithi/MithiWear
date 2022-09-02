@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const backToTop = document.querySelector("div.back-to-top");
   const dropdown = document.getElementById("dropdown");
   const cartIcon = document.getElementById("cart-icon");
+  const cartCount = document.getElementById("cart-count");
+  let counter = 0;
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -41,6 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const resp = await promise.json();
     return resp;
   }
+
   getShoes("http://localhost:3000/products").then((products) => {
     products.forEach((product) => {
       const shoe = document.createElement("div");
@@ -85,12 +88,16 @@ document.addEventListener("DOMContentLoaded", () => {
         dropDownContent.appendChild(cartImg);
         dropDownContent.appendChild(cartBtns);
         dropdown.appendChild(dropDownContent);
+        counter += 1;
+        cartCount.textContent = counter;
         purchase.addEventListener("click", () => {
           purchase.textContent = "Purchased";
           purchase.style.color = "green";
         });
         remove.addEventListener("click", () => {
           dropDownContent.remove();
+          counter -= 1;
+          cartCount.textContent = counter;
         });
       });
     });
