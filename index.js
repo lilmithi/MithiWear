@@ -108,6 +108,8 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
     const shoe = document.querySelectorAll("div.shoe");
+
+    //code to filter shoes based on brand
     shoe.forEach((myShoe) => {
       brandNames.forEach((brand) => {
         brand.addEventListener("click", () => {
