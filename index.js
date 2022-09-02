@@ -67,6 +67,8 @@ document.addEventListener("DOMContentLoaded", () => {
       shoe.appendChild(shoePrice);
       shoe.appendChild(addCart);
       shoes.appendChild(shoe);
+
+      //code to handle adding and removing items from cart
       addCart.addEventListener("click", () => {
         const dropDownContent = document.createElement("div");
         dropDownContent.className = "dropdown-content";
