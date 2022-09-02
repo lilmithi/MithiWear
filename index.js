@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const inputSearch = document.getElementById("search");
   const company = document.getElementById("company");
   const shoes = document.querySelector("div.shoes");
+  const backToTop = document.querySelector("div.back-to-top");
+  const dropdown = document.getElementById("dropdown");
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -21,6 +23,9 @@ document.addEventListener("DOMContentLoaded", () => {
     greeting.childNodes[0].textContent = "Good Night";
     greeting.childNodes[1].textContent = "bedtime";
   }
+  backToTop.addEventListener("click", () => {
+    window.scrollTo(0, 0);
+  });
 
   async function getShoes(url) {
     const promise = await fetch(url);
@@ -28,7 +33,6 @@ document.addEventListener("DOMContentLoaded", () => {
     return resp;
   }
   getShoes("http://localhost:3000/products").then((products) => {
-    console.log(products);
     products.forEach((product) => {
       const shoe = document.createElement("div");
       const shoeImage = document.createElement("div");
@@ -50,6 +54,36 @@ document.addEventListener("DOMContentLoaded", () => {
       shoe.appendChild(shoePrice);
       shoe.appendChild(addCart);
       shoes.appendChild(shoe);
+      addCart.addEventListener("click", () => {
+        const dropDownContent = document.createElement("div");
+        dropDownContent.className = "dropdown-content";
+        const cartBrand = document.createElement("p");
+        cartBrand.className = "cart-brand";
+        const cartImg = document.createElement("img");
+        const cartBtns = document.createElement("div");
+        cartBtns.className = "cart-btns";
+        const purchase = document.createElement("button");
+        purchase.textContent = "Purchase";
+        purchase.className = "purchase";
+        const remove = document.createElement("button");
+        remove.textContent = "Remove";
+        remove.className = "remove";
+        cartBrand.textContent = product.brandName;
+        cartImg.src = `https://${product.imageUrl}`;
+        cartBtns.appendChild(purchase);
+        cartBtns.appendChild(remove);
+        dropDownContent.appendChild(cartBrand);
+        dropDownContent.appendChild(cartImg);
+        dropDownContent.appendChild(cartBtns);
+        dropdown.appendChild(dropDownContent);
+        purchase.addEventListener("click", () => {
+          purchase.textContent = "Purchased";
+          purchase.style.color = "green";
+        });
+        remove.addEventListener("click", () => {
+          dropDownContent.remove();
+        });
+      });
     });
     const shoe = document.querySelectorAll("div.shoe");
     shoe.forEach((myShoe) => {
@@ -58,7 +92,7 @@ document.addEventListener("DOMContentLoaded", () => {
           if (
             !myShoe.childNodes[1].textContent
               .toLowerCase()
-              .startsWith(brand.textContent.toLowerCase().slice(0, 4))
+              .startsWith(brand.textContent.toLowerCase().slice(0, 4), 0)
           ) {
             myShoe.style.display = "none";
           } else {
@@ -70,14 +104,16 @@ document.addEventListener("DOMContentLoaded", () => {
         if (
           !myShoe.childNodes[1].textContent
             .toLowerCase()
-            .startsWith(inputSearch.value.toLowerCase().slice(0, 4))
+            .startsWith(inputSearch.value.toLowerCase().slice(0, 4), 0)
         ) {
           myShoe.style.display = "none";
         } else {
+          window.scrollTo(0, 0);
           myShoe.style.display = "block";
         }
       });
       company.addEventListener("click", () => {
+        window.scrollTo(0, 0);
         myShoe.style.display = "block";
       });
     });
