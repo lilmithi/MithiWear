@@ -92,6 +92,7 @@ header {
   font-size: 60%;
   font-weight: 600;
   background-color: rgb(10, 236, 104);
+  cursor: default;
 }
 #cart > p {
   color: white;
@@ -101,6 +102,9 @@ header {
   color: #fff;
   position: relative;
   display: block;
+}
+#cart span:hover{
+  color: #f1f1f1;
 }
 
 #dropdown {
@@ -153,7 +157,14 @@ header {
 }
 .cart-btns > * {
   font-size: 80%;
+  color: #fff;
+  font-weight: 500;
+  border: 1px solid;
 }
+.purchase{
+  background-color: rgb(10, 236, 104);
+}
+
 
 #dropdown > div:hover {
   background-color: #f1f1f1;
