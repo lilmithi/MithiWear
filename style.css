@@ -116,7 +116,7 @@ header {
   z-index: 1;
   top: 1.75em;
   max-height: 40vh;
-  width: 11em;
+  width: 12em;
   overflow-y: auto;
   padding-left: 0.25em;
 }
@@ -370,6 +370,7 @@ div.shoes {
   font-size: 90%;
   border-left: 2px #fff solid;
 }
+
 .add-cart:hover {
   background-color: rgba(233, 16, 16, 0.774);
 }

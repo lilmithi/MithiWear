@@ -30,8 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
     window.scrollTo(0, 0);
   });
   dropdown.style.display = "none";
+
   cartIcon.addEventListener("click", () => {
-    if (dropdown.style.display === "none") {
+    if (dropdown.style.display === "none" && dropdown.childElementCount !== 0) {
       dropdown.style.display = "block";
     } else {
       dropdown.style.display = "none";
@@ -97,6 +98,9 @@ document.addEventListener("DOMContentLoaded", () => {
         remove.addEventListener("click", () => {
           dropDownContent.remove();
           counter -= 1;
+          if (counter === 0) {
+            dropdown.style.display = "none";
+          }
           cartCount.textContent = counter;
         });
       });
