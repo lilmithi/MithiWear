@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const shoes = document.querySelector("div.shoes");
   const backToTop = document.querySelector("div.back-to-top");
   const dropdown = document.getElementById("dropdown");
+  const cartIcon = document.getElementById("cart-icon");
   const greeting = document.getElementById("greeting");
   const day = new Date();
   const hr = day.getHours();
@@ -25,6 +26,14 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   backToTop.addEventListener("click", () => {
     window.scrollTo(0, 0);
+  });
+  dropdown.style.display = "none";
+  cartIcon.addEventListener("click", () => {
+    if (dropdown.style.display === "none") {
+      dropdown.style.display = "block";
+    } else {
+      dropdown.style.display = "none";
+    }
   });
 
   async function getShoes(url) {

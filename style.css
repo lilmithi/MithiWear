@@ -89,7 +89,7 @@ header {
 }
 
 #dropdown {
-  display: block;
+  display: none;
   position: absolute;
   background-color: #f1ececf5;
   /* min-width: 160px; */
