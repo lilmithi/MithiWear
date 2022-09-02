@@ -157,7 +157,6 @@ header {
   flex-direction: column;
   justify-content: space-between;
   width: 35%;
-  /* border: solid 1px; */
   right: 0;
 }
 .cart-btns > * {
