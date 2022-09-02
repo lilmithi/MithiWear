@@ -118,6 +118,7 @@ header {
   max-height: 40vh;
   width: 11em;
   overflow-y: auto;
+  padding-left: 0.25em;
 }
 .dropdown-content {
   width: 15em;
