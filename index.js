@@ -124,6 +124,8 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         });
       });
+
+      //code to implement search functionality 
       inputSearch.addEventListener("keyup", () => {
         if (
           !myShoe.childNodes[1].textContent
