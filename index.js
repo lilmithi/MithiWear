@@ -39,6 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
+  //code to handle fetching data
   async function getShoes(url) {
     const promise = await fetch(url);
     const resp = await promise.json();
