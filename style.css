@@ -120,6 +120,7 @@ header {
   overflow-y: auto;
   padding-left: 0.25em;
 }
+
 .dropdown-content {
   width: 15em;
   position: relative;
@@ -254,9 +255,21 @@ footer {
   display: flex;
   justify-content: flex-end;
   gap: 0.75em;
+  padding: 1em;
+  cursor: pointer;
 }
 .media-icons i {
   color: rgba(244, 24, 24, 1);
+}
+.media-icons i:hover {
+  color: rgb(212, 52, 52);
+}
+.copyright {
+  color: #fff;
+  font-size: 70%;
+  display: flex;
+  justify-content: center;
+  /* align-items: flex-end; */
 }
 .back-to-top:hover {
   background-color: rgb(51, 179, 57);
@@ -377,4 +390,66 @@ div.shoes {
 
 .add-cart:hover {
   background-color: rgba(233, 16, 16, 0.774);
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    grid-template-areas:
+      "header header"
+      "main main"
+      "footer footer";
+    /* display: flex; */
+    width: 100vw;
+  }
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 80%;
+    color: #fff;
+    position: fixed;
+  }
+  .company {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    /* left: -4em; */
+    color: black;
+  }
+  #company-heading span {
+    color: rgb(51, 179, 57);
+  }
+  #greeting {
+    display: none;
+  }
+  .search-container {
+    display: flex;
+    justify-content: center;
+  }
+  #cart {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 0;
+  }
+  nav {
+    display: none;
+  }
+  footer {
+    width: 100vw;
+  }
+  input {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 850px) and (min-width: 750px) {
+  #cart p {
+    display: none;
+  }
+  #cart {
+    position: relative;
+    right: 0;
+  }
 }
