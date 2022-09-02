@@ -31,6 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   dropdown.style.display = "none";
 
+  //code to display/hide the cart dropdown list
   cartIcon.addEventListener("click", () => {
     if (dropdown.style.display === "none" && dropdown.childElementCount !== 0) {
       dropdown.style.display = "block";
