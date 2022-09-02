@@ -95,6 +95,8 @@ document.addEventListener("DOMContentLoaded", () => {
           purchase.textContent = "Purchased";
           purchase.style.color = "green";
         });
+
+        //event to remove an item from cart
         remove.addEventListener("click", () => {
           dropDownContent.remove();
           counter -= 1;
