@@ -95,6 +95,8 @@ document.addEventListener("DOMContentLoaded", () => {
         dropdown.appendChild(dropDownContent);
         counter += 1;
         cartCount.textContent = counter;
+
+        //code to handle the purchase click event in the cart dropdown
         purchase.addEventListener("click", () => {
           purchase.textContent = "Purchased";
           purchase.style.color = "green";
@@ -129,7 +131,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
       });
 
-      //code to implement search functionality 
+      //code to implement search functionality
       inputSearch.addEventListener("keyup", () => {
         if (
           !myShoe.childNodes[1].textContent
