@@ -98,10 +98,10 @@ document.addEventListener("DOMContentLoaded", () => {
         remove.addEventListener("click", () => {
           dropDownContent.remove();
           counter -= 1;
+          cartCount.textContent = counter;
           if (counter === 0) {
             dropdown.style.display = "none";
           }
-          cartCount.textContent = counter;
         });
       });
     });
