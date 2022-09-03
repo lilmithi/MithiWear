@@ -4,1301 +4,524 @@
       "id": 200843067,
       "name": "ASOS DESIGN lace up boot in beige sherpa with strap detail on chunky sole",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "BEIGE",
-      "colourWayId": 200843095,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 106368718,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-boot-in-beige-sherpa-with-strap-detail-on-chunky-sole/prd/200843067?clr=beige&colourWayId=200843095",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-beige-sherpa-with-strap-detail-on-chunky-sole/200843067-1-beige",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-beige-sherpa-with-strap-detail-on-chunky-sole/200843067-1-beige"
     },
     {
       "id": 200844121,
       "name": "ASOS DESIGN chunky sole boot in olive canvas with strap detail",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "Khaki",
-      "colourWayId": 200844188,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 106368742,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chunky-sole-boot-in-olive-canvas-with-strap-detail/prd/200844121?clr=khaki&colourWayId=200844188",
-      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-boot-in-olive-canvas-with-strap-detail/200844121-1-khaki",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-boot-in-olive-canvas-with-strap-detail/200844121-1-khaki"
     },
     {
       "id": 201179632,
       "name": "ASOS DESIGN chunky sole lace up boot in purple faux suede",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "PURPLE",
-      "colourWayId": 201179633,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 110216729,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chunky-sole-lace-up-boot-in-purple-faux-suede/prd/201179632?clr=purple&colourWayId=201179633",
-      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-lace-up-boot-in-purple-faux-suede/201179632-1-purple",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-lace-up-boot-in-purple-faux-suede/201179632-1-purple"
     },
     {
       "id": 203556760,
       "name": "Converse Run Star Motion Hi canvas platform sneakers in beige",
       "price": {
-        "current": { "value": 120, "text": "$120.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 120, "text": "$120.00" }
       },
       "colour": "Sand",
-      "colourWayId": 203556761,
       "brandName": "Converse",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 121402149,
-      "productType": "Product",
-      "url": "converse/converse-run-star-motion-hi-canvas-platform-sneakers-in-beige/prd/203556760?clr=sand&colourWayId=203556761",
-      "imageUrl": "images.asos-media.com/products/converse-run-star-motion-hi-canvas-platform-sneakers-in-beige/203556760-1-sand",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/converse-run-star-motion-hi-canvas-platform-sneakers-in-beige/203556760-1-sand"
     },
     {
       "id": 200375594,
       "name": "ASOS DESIGN puffer chelsea boot in black nylon with contrast sole",
       "price": {
-        "current": { "value": 82, "text": "$82.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 82, "text": "$82.00" }
       },
       "colour": "Black",
-      "colourWayId": 200375601,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 103394506,
-      "productType": "Product",
-      "url": "asos-design/asos-design-puffer-chelsea-boot-in-black-nylon-with-contrast-sole/prd/200375594?clr=black&colourWayId=200375601",
-      "imageUrl": "images.asos-media.com/products/asos-design-puffer-chelsea-boot-in-black-nylon-with-contrast-sole/200375594-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-puffer-chelsea-boot-in-black-nylon-with-contrast-sole/200375594-1-black"
     },
     {
       "id": 201129647,
       "name": "ASOS DESIGN loafers in black velvet with badge detail",
       "price": {
-        "current": { "value": 63, "text": "$63.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 63, "text": "$63.00" }
       },
       "colour": "Black",
-      "colourWayId": 201129648,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 109819094,
-      "productType": "Product",
-      "url": "asos-design/asos-design-loafers-in-black-velvet-with-badge-detail/prd/201129647?clr=black&colourWayId=201129648",
-      "imageUrl": "images.asos-media.com/products/asos-design-loafers-in-black-velvet-with-badge-detail/201129647-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-loafers-in-black-velvet-with-badge-detail/201129647-1-black"
     },
     {
       "id": 200354378,
       "name": "ASOS DESIGN lace up boot with pocket bag in khaki faux suede",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "Khaki",
-      "colourWayId": 200354379,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 102818356,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-boot-with-pocket-bag-in-khaki-faux-suede/prd/200354378?clr=khaki&colourWayId=200354379",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-with-pocket-bag-in-khaki-faux-suede/200354378-1-khaki",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-with-pocket-bag-in-khaki-faux-suede/200354378-1-khaki"
     },
     {
       "id": 200375473,
       "name": "ASOS DESIGN lace up boot in green faux suede with strap detail on chunky sole",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "GREEN",
-      "colourWayId": 200375475,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 103394503,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-boot-in-green-faux-suede-with-strap-detail-on-chunky-sole/prd/200375473?clr=green&colourWayId=200375475",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-green-faux-suede-with-strap-detail-on-chunky-sole/200375473-1-green",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-green-faux-suede-with-strap-detail-on-chunky-sole/200375473-1-green"
     },
     {
       "id": 200442292,
       "name": "ASOS DESIGN moccasin slippers with faux fur lining in black",
       "price": {
-        "current": { "value": 30, "text": "$30.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 30, "text": "$30.00" }
       },
       "colour": "Black",
-      "colourWayId": 200442293,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 103234595,
-      "productType": "Product",
-      "url": "asos-design/asos-design-moccasin-slippers-with-faux-fur-lining-in-black/prd/200442292?clr=black&colourWayId=200442293",
-      "imageUrl": "images.asos-media.com/products/asos-design-moccasin-slippers-with-faux-fur-lining-in-black/200442292-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-moccasin-slippers-with-faux-fur-lining-in-black/200442292-1-black"
     },
     {
       "id": 200442309,
       "name": "ASOS DESIGN moccasin slippers in gray with faux fur lining",
       "price": {
-        "current": { "value": 30, "text": "$30.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 30, "text": "$30.00" }
       },
       "colour": "Gray",
-      "colourWayId": 200442310,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 103234597,
-      "productType": "Product",
-      "url": "asos-design/asos-design-moccasin-slippers-in-gray-with-faux-fur-lining/prd/200442309?clr=gray&colourWayId=200442310",
-      "imageUrl": "images.asos-media.com/products/asos-design-moccasin-slippers-in-gray-with-faux-fur-lining/200442309-1-grey",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-moccasin-slippers-in-gray-with-faux-fur-lining/200442309-1-grey"
     },
     {
       "id": 200448479,
       "name": "ASOS DESIGN lace up boot on chunky sole in brown canvas",
       "price": {
-        "current": { "value": 97, "text": "$97.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 97, "text": "$97.00" }
       },
       "colour": "BROWN",
-      "colourWayId": 200448481,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 103998349,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-boot-on-chunky-sole-in-brown-canvas/prd/200448479?clr=brown&colourWayId=200448481",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-on-chunky-sole-in-brown-canvas/200448479-1-brown",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-on-chunky-sole-in-brown-canvas/200448479-1-brown"
     },
     {
       "id": 200899429,
       "name": "ASOS DESIGN lace up boot in black faux leather with gold detail on chunky sole",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "BLACK",
-      "colourWayId": 200899459,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 107294243,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-boot-in-black-faux-leather-with-gold-detail-on-chunky-sole/prd/200899429?clr=black&colourWayId=200899459",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-black-faux-leather-with-gold-detail-on-chunky-sole/200899429-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-boot-in-black-faux-leather-with-gold-detail-on-chunky-sole/200899429-1-black"
     },
     {
       "id": 201128451,
       "name": "ASOS DESIGN chunky lace up shoe in black faux leather with contrast orange sole",
       "price": {
-        "current": { "value": 70, "text": "$70.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 70, "text": "$70.00" }
       },
       "colour": "Black",
-      "colourWayId": 201128462,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 109819086,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chunky-lace-up-shoe-in-black-faux-leather-with-contrast-orange-sole/prd/201128451?clr=black&colourWayId=201128462",
-      "imageUrl": "images.asos-media.com/products/asos-design-chunky-lace-up-shoe-in-black-faux-leather-with-contrast-orange-sole/201128451-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chunky-lace-up-shoe-in-black-faux-leather-with-contrast-orange-sole/201128451-1-black"
     },
     {
       "id": 201129988,
       "name": "ASOS DESIGN chelsea calf boot in gray faux leather with contrast yellow chunky sole",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "Gray",
-      "colourWayId": 201130016,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 109819100,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chelsea-calf-boot-in-gray-faux-leather-with-contrast-yellow-chunky-sole/prd/201129988?clr=gray&colourWayId=201130016",
-      "imageUrl": "images.asos-media.com/products/asos-design-chelsea-calf-boot-in-gray-faux-leather-with-contrast-yellow-chunky-sole/201129988-1-grey",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chelsea-calf-boot-in-gray-faux-leather-with-contrast-yellow-chunky-sole/201129988-1-grey"
     },
     {
       "id": 201130172,
       "name": "ASOS DESIGN chunky sole lace up boot in monogram print",
       "price": {
-        "current": { "value": 85, "text": "$85.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 85, "text": "$85.00" }
       },
       "colour": "Black",
-      "colourWayId": 201130173,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 109819102,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chunky-sole-lace-up-boot-in-monogram-print/prd/201130172?clr=black&colourWayId=201130173",
-      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-lace-up-boot-in-monogram-print/201130172-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-lace-up-boot-in-monogram-print/201130172-1-black"
     },
     {
       "id": 201156320,
       "name": "Nike Air Tuned Max sneakers in gray and orange",
       "price": {
-        "current": { "value": 190, "text": "$190.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 190, "text": "$190.00" }
       },
       "colour": "Volt/Orange",
-      "colourWayId": 201156321,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 109503404,
-      "productType": "Product",
-      "url": "nike/nike-air-tuned-max-sneakers-in-gray-and-orange/prd/201156320?clr=volt-orange&colourWayId=201156321",
-      "imageUrl": "images.asos-media.com/products/nike-air-tuned-max-sneakers-in-gray-and-orange/201156320-1-voltorange",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-tuned-max-sneakers-in-gray-and-orange/201156320-1-voltorange"
     },
     {
       "id": 201286466,
       "name": "Nike Training SuperRep Go 3 sneakers in black",
       "price": {
-        "current": { "value": 100, "text": "$100.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 100, "text": "$100.00" }
       },
       "colour": "Black",
-      "colourWayId": 201286468,
       "brandName": "Nike Training",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 111178826,
-      "productType": "Product",
-      "url": "nike-training/nike-training-superrep-go-3-sneakers-in-black/prd/201286466?clr=black&colourWayId=201286468",
-      "imageUrl": "images.asos-media.com/products/nike-training-superrep-go-3-sneakers-in-black/201286466-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-training-superrep-go-3-sneakers-in-black/201286466-1-black"
     },
     {
       "id": 201421812,
       "name": "ASOS DESIGN tech lace up boot in black mesh with contrast detail",
       "price": {
-        "current": { "value": 82, "text": "$82.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 82, "text": "$82.00" }
       },
       "colour": "Black",
-      "colourWayId": 201421818,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 113184839,
-      "productType": "Product",
-      "url": "asos-design/asos-design-tech-lace-up-boot-in-black-mesh-with-contrast-detail/prd/201421812?clr=black&colourWayId=201421818",
-      "imageUrl": "images.asos-media.com/products/asos-design-tech-lace-up-boot-in-black-mesh-with-contrast-detail/201421812-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-tech-lace-up-boot-in-black-mesh-with-contrast-detail/201421812-1-black"
     },
     {
       "id": 201434065,
       "name": "ASOS DESIGN brogue monk shoes in black leather",
       "price": {
-        "current": { "value": 83, "text": "$83.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 83, "text": "$83.00" }
       },
       "colour": "Black",
-      "colourWayId": 201434066,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 113338344,
-      "productType": "Product",
-      "url": "asos-design/asos-design-brogue-monk-shoes-in-black-leather/prd/201434065?clr=black&colourWayId=201434066",
-      "imageUrl": "images.asos-media.com/products/asos-design-brogue-monk-shoes-in-black-leather/201434065-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-brogue-monk-shoes-in-black-leather/201434065-1-black"
     },
     {
       "id": 201983211,
       "name": "VAI21 embossed slides in blue",
       "price": {
-        "current": { "value": 37, "text": "$37.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 37, "text": "$37.00" }
       },
       "colour": "BLUE",
-      "colourWayId": 201983226,
       "brandName": "VAI21",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 115268884,
-      "productType": "Product",
-      "url": "vai21/vai21-embossed-slides-in-blue/prd/201983211?clr=blue&colourWayId=201983226",
-      "imageUrl": "images.asos-media.com/products/vai21-embossed-slides-in-blue/201983211-1-blue",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/vai21-embossed-slides-in-blue/201983211-1-blue"
     },
     {
       "id": 202042130,
       "name": "Schuh rich tassel loafers in black suede",
       "price": {
-        "current": { "value": 78, "text": "$78.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 78, "text": "$78.00" }
       },
       "colour": "Black",
-      "colourWayId": 202042147,
       "brandName": "Schuh",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 115450370,
-      "productType": "Product",
-      "url": "schuh/schuh-rich-tassel-loafers-in-black-suede/prd/202042130?clr=black&colourWayId=202042147",
-      "imageUrl": "images.asos-media.com/products/schuh-rich-tassel-loafers-in-black-suede/202042130-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/schuh-rich-tassel-loafers-in-black-suede/202042130-1-black"
     },
     {
       "id": 202385727,
       "name": "Nike Air Max 97 sneakers in white/particle gray",
       "price": {
-        "current": { "value": 175, "text": "$175.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 175, "text": "$175.00" }
       },
       "colour": "White/Gray",
-      "colourWayId": 202385737,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 116550747,
-      "productType": "Product",
-      "url": "nike/nike-air-max-97-sneakers-in-white-particle-gray/prd/202385727?clr=white-gray&colourWayId=202385737",
-      "imageUrl": "images.asos-media.com/products/nike-air-max-97-sneakers-in-white-particle-gray/202385727-1-whitegrey",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-max-97-sneakers-in-white-particle-gray/202385727-1-whitegrey"
     },
     {
       "id": 202419148,
       "name": "Nike Renew Retaliation 4 sneakers in white",
       "price": {
-        "current": { "value": 80, "text": "$80.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 80, "text": "$80.00" }
       },
       "colour": "White",
-      "colourWayId": 202419163,
       "brandName": "Nike Training",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 116730177,
-      "productType": "Product",
-      "url": "nike-training/nike-renew-retaliation-4-sneakers-in-white/prd/202419148?clr=white&colourWayId=202419163",
-      "imageUrl": "images.asos-media.com/products/nike-renew-retaliation-4-sneakers-in-white/202419148-1-white",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-renew-retaliation-4-sneakers-in-white/202419148-1-white"
     },
     {
       "id": 202441512,
       "name": "ASOS DESIGN chelsea boots in black leather",
       "price": {
-        "current": { "value": 52, "text": "$52.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 52, "text": "$52.00" }
       },
       "colour": "Black",
-      "colourWayId": 202441538,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 116779884,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chelsea-boots-in-black-leather/prd/202441512?clr=black&colourWayId=202441538",
-      "imageUrl": "images.asos-media.com/products/asos-design-chelsea-boots-in-black-leather/202441512-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chelsea-boots-in-black-leather/202441512-1-black"
     },
     {
       "id": 202664440,
       "name": "ASOS DESIGN chunky sole loafers with oversized chain in silver faux leather with contrast sole",
       "price": {
-        "current": { "value": 63, "text": "$63.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 63, "text": "$63.00" }
       },
       "colour": "SILVER",
-      "colourWayId": 202664441,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 117750247,
-      "productType": "Product",
-      "url": "asos-design/asos-design-chunky-sole-loafers-with-oversized-chain-in-silver-faux-leather-with-contrast-sole/prd/202664440?clr=silver&colourWayId=202664441",
-      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-loafers-with-oversized-chain-in-silver-faux-leather-with-contrast-sole/202664440-1-silver",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-chunky-sole-loafers-with-oversized-chain-in-silver-faux-leather-with-contrast-sole/202664440-1-silver"
     },
     {
       "id": 202686961,
       "name": "ASOS DESIGN heeled platform chelsea boots in black patent faux leather with diamante sole",
       "price": {
-        "current": { "value": 133, "text": "$133.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 133, "text": "$133.00" }
       },
       "colour": "Black",
-      "colourWayId": 202686965,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 117784111,
-      "productType": "Product",
-      "url": "asos-design/asos-design-heeled-platform-chelsea-boots-in-black-patent-faux-leather-with-diamante-sole/prd/202686961?clr=black&colourWayId=202686965",
-      "imageUrl": "images.asos-media.com/products/asos-design-heeled-platform-chelsea-boots-in-black-patent-faux-leather-with-diamante-sole/202686961-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-heeled-platform-chelsea-boots-in-black-patent-faux-leather-with-diamante-sole/202686961-1-black"
     },
     {
       "id": 202686978,
       "name": "ASOS DESIGN heeled boots in black patent faux leather",
       "price": {
-        "current": { "value": 82, "text": "$82.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 82, "text": "$82.00" }
       },
       "colour": "Black",
-      "colourWayId": 202686979,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 117784112,
-      "productType": "Product",
-      "url": "asos-design/asos-design-heeled-boots-in-black-patent-faux-leather/prd/202686978?clr=black&colourWayId=202686979",
-      "imageUrl": "images.asos-media.com/products/asos-design-heeled-boots-in-black-patent-faux-leather/202686978-1-black",
-      "videoUrl": null,
-      "isSellingFast": true,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-heeled-boots-in-black-patent-faux-leather/202686978-1-black"
     },
     {
       "id": 202728607,
       "name": "Walk London Capri snaffle trim loafers in brown",
       "price": {
-        "current": { "value": 88, "text": "$88.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 88, "text": "$88.00" }
       },
       "colour": "BROWN",
-      "colourWayId": 202728623,
       "brandName": "WALK LONDON",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118373574,
-      "productType": "Product",
-      "url": "walk-london/walk-london-capri-snaffle-trim-loafers-in-brown/prd/202728607?clr=brown&colourWayId=202728623",
-      "imageUrl": "images.asos-media.com/products/walk-london-capri-snaffle-trim-loafers-in-brown/202728607-1-brown",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/walk-london-capri-snaffle-trim-loafers-in-brown/202728607-1-brown"
     },
     {
       "id": 202734154,
       "name": "ASOS DESIGN loafers in black glitter velvet with silver embroidery",
       "price": {
-        "current": { "value": 45, "text": "$45.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 45, "text": "$45.00" }
       },
       "colour": "Black",
-      "colourWayId": 202734172,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118648620,
-      "productType": "Product",
-      "url": "asos-design/asos-design-loafers-in-black-glitter-velvet-with-silver-embroidery/prd/202734154?clr=black&colourWayId=202734172",
-      "imageUrl": "images.asos-media.com/products/asos-design-loafers-in-black-glitter-velvet-with-silver-embroidery/202734154-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-loafers-in-black-glitter-velvet-with-silver-embroidery/202734154-1-black"
     },
     {
       "id": 202734193,
       "name": "ASOS DESIGN heeled chelsea boot in black faux suede with flame diamante detail",
       "price": {
-        "current": { "value": 82, "text": "$82.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 82, "text": "$82.00" }
       },
       "colour": "Black",
-      "colourWayId": 202734202,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118648619,
-      "productType": "Product",
-      "url": "asos-design/asos-design-heeled-chelsea-boot-in-black-faux-suede-with-flame-diamante-detail/prd/202734193?clr=black&colourWayId=202734202",
-      "imageUrl": "images.asos-media.com/products/asos-design-heeled-chelsea-boot-in-black-faux-suede-with-flame-diamante-detail/202734193-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-heeled-chelsea-boot-in-black-faux-suede-with-flame-diamante-detail/202734193-1-black"
     },
     {
       "id": 202829755,
       "name": "ASOS DESIGN Heeled chelsea boots with angled toe in white leather",
       "price": {
-        "current": { "value": 107, "text": "$107.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 107, "text": "$107.00" }
       },
       "colour": "WHITE",
-      "colourWayId": 202829756,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118788468,
-      "productType": "Product",
-      "url": "asos-design/asos-design-heeled-chelsea-boots-with-angled-toe-in-white-leather/prd/202829755?clr=white&colourWayId=202829756",
-      "imageUrl": "images.asos-media.com/products/asos-design-heeled-chelsea-boots-with-angled-toe-in-white-leather/202829755-1-white",
-      "videoUrl": null,
-      "isSellingFast": true,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-heeled-chelsea-boots-with-angled-toe-in-white-leather/202829755-1-white"
     },
     {
       "id": 202841905,
       "name": "adidas Originals Ozrah sneakers in crystal white",
       "price": {
-        "current": { "value": 140, "text": "$140.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 140, "text": "$140.00" }
       },
       "colour": "White",
-      "colourWayId": 202841910,
       "brandName": "adidas Originals",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118669499,
-      "productType": "Product",
-      "url": "adidas-originals/adidas-originals-ozrah-sneakers-in-crystal-white/prd/202841905?clr=white&colourWayId=202841910",
-      "imageUrl": "images.asos-media.com/products/adidas-originals-ozrah-sneakers-in-crystal-white/202841905-1-white",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+
+      "imageUrl": "images.asos-media.com/products/adidas-originals-ozrah-sneakers-in-crystal-white/202841905-1-white"
     },
     {
       "id": 2028095205,
       "name": "puma original navy green X white sneakers",
       "price": {
-        "current": { "value": 180, "text": "$180.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 180, "text": "$180.00" }
       },
       "colour": "Green",
-      "colourWayId": 2028419310,
       "brandName": "Puma",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 1669242399,
-      "productType": "Product",
-      "url": "https://www.westendwell.ca/product/puma/puma-sneakers/puma-sneakers-14/",
-      "imageUrl": "www.westendwell.ca/wp-content/uploads/2021/07/puma20sneakers-146cnd.jpg",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+
+      "imageUrl": "www.westendwell.ca/wp-content/uploads/2021/07/puma20sneakers-146cnd.jpg"
     },
     {
       "id": 20281025205,
       "name": "puma Suede Classic XXL",
       "price": {
-        "current": { "value": 100, "text": "$100.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 100, "text": "$100.00" }
       },
       "colour": "black/white",
-      "colourWayId": 2020849310,
       "brandName": "Puma",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 16692422399,
-      "productType": "Product",
-      "url": "https://www.efootwear.eu/trainers-puma-suede-classic-xxi-374915-01-puma-black-puma-white.html",
-      "imageUrl": "www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208449229_01_rz.jpg",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "www.efootwear.eu/media/catalog/product/cache/image/650x650/0/0/0000208449229_01_rz.jpg"
     },
     {
       "id": 20280100205,
       "name": "puma original rainbow sneakers",
       "price": {
-        "current": { "value": 280, "text": "$280.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 280, "text": "$280.00" }
       },
       "colour": "rainbow",
-      "colourWayId": 20299419310,
       "brandName": "Puma",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 1669285609,
-      "productType": "Product",
-      "url": "https://www.pinterest.com/pin/95490454600408327/",
-      "imageUrl": "i.pinimg.com/originals/78/65/fd/7865fd08997314b5d30cd5cd9b943f44.jpg",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "i.pinimg.com/originals/78/65/fd/7865fd08997314b5d30cd5cd9b943f44.jpg"
     },
     {
       "id": 202850032,
       "name": "adidas Originals Retropy F2 sneakers in green and red",
       "price": {
-        "current": { "value": 90, "text": "$90.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 90, "text": "$90.00" }
       },
       "colour": "Green",
-      "colourWayId": 202850034,
       "brandName": "adidas Originals",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 118669521,
-      "productType": "Product",
-      "url": "adidas-originals/adidas-originals-retropy-f2-sneakers-in-green-and-red/prd/202850032?clr=green&colourWayId=202850034",
-      "imageUrl": "images.asos-media.com/products/adidas-originals-retropy-f2-sneakers-in-green-and-red/202850032-1-green",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/adidas-originals-retropy-f2-sneakers-in-green-and-red/202850032-1-green"
     },
     {
       "id": 202962010,
       "name": "Nike Air Force 1 '07 sneakers in triple black",
       "price": {
-        "current": { "value": 110, "text": "$110.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 110, "text": "$110.00" }
       },
       "colour": "Black",
-      "colourWayId": 202962054,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119204101,
-      "productType": "Product",
-      "url": "nike/nike-air-force-1-07-sneakers-in-triple-black/prd/202962010?clr=black&colourWayId=202962054",
-      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-sneakers-in-triple-black/202962010-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-sneakers-in-triple-black/202962010-1-black"
     },
     {
       "id": 202962156,
       "name": "Nike Air force 1 '07 sneakers in white and black",
       "price": {
-        "current": { "value": 110, "text": "$110.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 110, "text": "$110.00" }
       },
       "colour": "White",
-      "colourWayId": 202962158,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119204089,
-      "productType": "Product",
-      "url": "nike/nike-air-force-1-07-sneakers-in-white-and-black/prd/202962156?clr=white&colourWayId=202962158",
-      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-sneakers-in-white-and-black/202962156-1-white",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-sneakers-in-white-and-black/202962156-1-white"
     },
     {
       "id": 2022962156,
       "name": "Vans Old Skool",
       "price": {
-        "current": { "value": 70, "text": "$70.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 70, "text": "$70.00" }
       },
       "colour": "Black/white",
-      "colourWayId": 992962158,
       "brandName": "Vans",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 1192041089,
-      "productType": "Product",
-      "url": "https://www.vans.com/en-us/shoes-c00081/old-skool-pvn000d3hy28",
-      "imageUrl": "images.vans.com/is/image/Vans/VN000D3HY28-HERO?wid=800&hei=800&fmt=jpeg&qlt=50&resMode=sharp2&op_usm=0.9,1.5,8,0",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.vans.com/is/image/Vans/VN000D3HY28-HERO?wid=800&hei=800&fmt=jpeg&qlt=50&resMode=sharp2&op_usm=0.9,1.5,8,0"
     },
     {
       "id": 202962883,
       "name": "Nike Air Force 1 '07 Mid sneakers in triple black",
       "price": {
-        "current": { "value": 120, "text": "$120.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 120, "text": "$120.00" }
       },
       "colour": "Black",
-      "colourWayId": 202962884,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119204549,
-      "productType": "Product",
-      "url": "nike/nike-air-force-1-07-mid-sneakers-in-triple-black/prd/202962883?clr=black&colourWayId=202962884",
-      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-mid-sneakers-in-triple-black/202962883-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-force-1-07-mid-sneakers-in-triple-black/202962883-1-black"
     },
     {
       "id": 202963136,
       "name": "Nike Waffle One mesh sneakers in black",
       "price": {
-        "current": { "value": 105, "text": "$105.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 105, "text": "$105.00" }
       },
       "colour": "Black",
-      "colourWayId": 202963143,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119205127,
-      "productType": "Product",
-      "url": "nike/nike-waffle-one-mesh-sneakers-in-black/prd/202963136?clr=black&colourWayId=202963143",
-      "imageUrl": "images.asos-media.com/products/nike-waffle-one-mesh-sneakers-in-black/202963136-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-waffle-one-mesh-sneakers-in-black/202963136-1-black"
     },
     {
       "id": 202963664,
       "name": "Nike Air Max Excee sneakers in gray and black",
       "price": {
-        "current": { "value": 90, "text": "$90.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 90, "text": "$90.00" }
       },
       "colour": "White",
-      "colourWayId": 202963671,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119205169,
-      "productType": "Product",
-      "url": "nike/nike-air-max-excee-sneakers-in-gray-and-black/prd/202963664?clr=white&colourWayId=202963671",
-      "imageUrl": "images.asos-media.com/products/nike-air-max-excee-sneakers-in-gray-and-black/202963664-1-white",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-max-excee-sneakers-in-gray-and-black/202963664-1-white"
     },
     {
       "id": 203605637,
       "name": "Bershka chunky runner sneakers in white",
       "price": {
-        "current": { "value": 49.9, "text": "$49.90" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 49.9, "text": "$49.90" }
       },
       "colour": "White",
-      "colourWayId": 203605638,
       "brandName": "Bershka",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 121634647,
-      "productType": "Product",
-      "url": "bershka/bershka-chunky-runner-sneakers-in-white/prd/203605637?clr=white&colourWayId=203605638",
-      "imageUrl": "images.asos-media.com/products/bershka-chunky-runner-sneakers-in-white/203605637-1-white",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/bershka-chunky-runner-sneakers-in-white/203605637-1-white"
     },
     {
       "id": 202261206,
       "name": "ASOS DESIGN lace up sneakers in black with embossed panels",
       "price": {
-        "current": { "value": 37, "text": "$37.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 37, "text": "$37.00" }
       },
       "colour": "Black",
-      "colourWayId": 202261207,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 116069438,
-      "productType": "Product",
-      "url": "asos-design/asos-design-lace-up-sneakers-in-black-with-embossed-panels/prd/202261206?clr=black&colourWayId=202261207",
-      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-sneakers-in-black-with-embossed-panels/202261206-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-lace-up-sneakers-in-black-with-embossed-panels/202261206-1-black"
     },
     {
       "id": 202499060,
       "name": "ASOS DESIGN brogue shoe in brown leather on white wedge sole",
       "price": {
-        "current": { "value": 70, "text": "$70.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 70, "text": "$70.00" }
       },
       "colour": "BROWN",
-      "colourWayId": 202499061,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 117353731,
-      "productType": "Product",
-      "url": "asos-design/asos-design-brogue-shoe-in-brown-leather-on-white-wedge-sole/prd/202499060?clr=brown&colourWayId=202499061",
-      "imageUrl": "images.asos-media.com/products/asos-design-brogue-shoe-in-brown-leather-on-white-wedge-sole/202499060-1-brown",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+
+      "imageUrl": "images.asos-media.com/products/asos-design-brogue-shoe-in-brown-leather-on-white-wedge-sole/202499060-1-brown"
     },
     {
       "id": 202686960,
       "name": "ASOS DESIGN heeled boots in black faux leather with gold chain detail",
       "price": {
-        "current": { "value": 82, "text": "$82.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 82, "text": "$82.00" }
       },
       "colour": "Black",
-      "colourWayId": 202686962,
       "brandName": "ASOS DESIGN",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 117784113,
-      "productType": "Product",
-      "url": "asos-design/asos-design-heeled-boots-in-black-faux-leather-with-gold-chain-detail/prd/202686960?clr=black&colourWayId=202686962",
-      "imageUrl": "images.asos-media.com/products/asos-design-heeled-boots-in-black-faux-leather-with-gold-chain-detail/202686960-1-black",
-      "videoUrl": null,
-      "isSellingFast": true,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/asos-design-heeled-boots-in-black-faux-leather-with-gold-chain-detail/202686960-1-black"
     },
     {
       "id": 202963835,
       "name": "Nike Asuna 2 slides in gray",
       "price": {
-        "current": { "value": 50, "text": "$50.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 50, "text": "$50.00" }
       },
       "colour": "Gray",
-      "colourWayId": 202963836,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119205173,
-      "productType": "Product",
-      "url": "nike/nike-asuna-2-slides-in-gray/prd/202963835?clr=gray&colourWayId=202963836",
-      "imageUrl": "images.asos-media.com/products/nike-asuna-2-slides-in-gray/202963835-1-gray",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-asuna-2-slides-in-gray/202963835-1-gray"
     },
     {
       "id": 201286347,
       "name": "Nike Training Air Zoom SuperRep 3 sneakers in white/multi",
       "price": {
-        "current": { "value": 120, "text": "$120.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 120, "text": "$120.00" }
       },
       "colour": "White",
-      "colourWayId": 201286348,
       "brandName": "Nike Training",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 111178836,
-      "productType": "Product",
-      "url": "nike-training/nike-training-air-zoom-superrep-3-sneakers-in-white-multi/prd/201286347?clr=white&colourWayId=201286348",
-      "imageUrl": "images.asos-media.com/products/nike-training-air-zoom-superrep-3-sneakers-in-white-multi/201286347-1-white",
-      "videoUrl": null,
-      "isSellingFast": true,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-training-air-zoom-superrep-3-sneakers-in-white-multi/201286347-1-white"
     },
     {
       "id": 202384342,
       "name": "Nike Waffle One Crater sneakers in black",
       "price": {
-        "current": { "value": 110, "text": "$110.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 110, "text": "$110.00" }
       },
       "colour": "Black/Gray",
-      "colourWayId": 202384353,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 116549263,
-      "productType": "Product",
-      "url": "nike/nike-waffle-one-crater-sneakers-in-black/prd/202384342?clr=black-gray&colourWayId=202384353",
-      "imageUrl": "images.asos-media.com/products/nike-waffle-one-crater-sneakers-in-black/202384342-1-blackgrey",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-waffle-one-crater-sneakers-in-black/202384342-1-blackgrey"
     },
     {
       "id": 202962955,
       "name": "Nike Air Max 90 Terrascape sneakers in black and white",
       "price": {
-        "current": { "value": 140, "text": "$140.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 140, "text": "$140.00" }
       },
       "colour": "Black",
-      "colourWayId": 202962956,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119205128,
-      "productType": "Product",
-      "url": "nike/nike-air-max-90-terrascape-sneakers-in-black-and-white/prd/202962955?clr=black&colourWayId=202962956",
-      "imageUrl": "images.asos-media.com/products/nike-air-max-90-terrascape-sneakers-in-black-and-white/202962955-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-air-max-90-terrascape-sneakers-in-black-and-white/202962955-1-black"
     },
     {
       "id": 202963810,
       "name": "Nike Victori One slides in black and white",
       "price": {
-        "current": { "value": 35, "text": "$35.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 35, "text": "$35.00" }
       },
       "colour": "Black",
-      "colourWayId": 202963811,
       "brandName": "Nike",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 119205160,
-      "productType": "Product",
-      "url": "nike/nike-victori-one-slides-in-black-and-white/prd/202963810?clr=black&colourWayId=202963811",
-      "imageUrl": "images.asos-media.com/products/nike-victori-one-slides-in-black-and-white/202963810-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/nike-victori-one-slides-in-black-and-white/202963810-1-black"
     },
     {
       "id": 203433481,
       "name": "Fred Perry Hughes hi top leather sneakers in black",
       "price": {
-        "current": { "value": 140, "text": "$140.00" },
-        "previous": { "value": null, "text": "" },
-        "rrp": { "value": null, "text": "" },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
+        "current": { "value": 140, "text": "$140.00" }
       },
       "colour": "Black",
-      "colourWayId": 203433489,
       "brandName": "Fred Perry",
-      "hasVariantColours": false,
-      "hasMultiplePrices": false,
-      "groupId": null,
-      "productCode": 121141319,
-      "productType": "Product",
-      "url": "fred-perry/fred-perry-hughes-hi-top-leather-sneakers-in-black/prd/203433481?clr=black&colourWayId=203433489",
-      "imageUrl": "images.asos-media.com/products/fred-perry-hughes-hi-top-leather-sneakers-in-black/203433481-1-black",
-      "videoUrl": null,
-      "isSellingFast": false,
-      "sponsoredCampaignId": null
+      "imageUrl": "images.asos-media.com/products/fred-perry-hughes-hi-top-leather-sneakers-in-black/203433481-1-black"
     }
   ]
 }
