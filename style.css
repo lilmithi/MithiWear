@@ -397,8 +397,9 @@ div.shoes {
 .add-cart:hover {
   background-color: rgba(233, 16, 16, 0.774);
 }
-a{
+#cart a {
   text-decoration: none;
+  -moz-text-decoration-style: none;
 }
 
 @media screen and (max-width: 750px) {
