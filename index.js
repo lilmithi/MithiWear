@@ -47,8 +47,8 @@ document.addEventListener("DOMContentLoaded", () => {
     return resp;
   }
 
-  getShoes("http://localhost:3000/products").then((products) => {
-    products.forEach((product) => {
+  getShoes("https://lilmithi.github.io/db.json").then((products) => {
+    products.products.forEach((product) => {
       const shoe = document.createElement("div");
       const shoeImage = document.createElement("div");
       const shoeDescription = document.createElement("div");
