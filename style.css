@@ -249,12 +249,17 @@ footer {
   padding-bottom: 0.5em;
   align-items: center;
   cursor: default;
+  
 }
 .media-icons {
   display: flex;
   justify-content: flex-end;
   gap: 0.75em;
   padding: 1em;
+  width: fit-content;
+  position: absolute;
+  right: 0;
+  bottom: 2em;
   cursor: pointer;
 }
 .media-icons i {
