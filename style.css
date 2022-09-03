@@ -250,6 +250,9 @@ footer {
   align-items: center;
   cursor: default;
 }
+.back-to-top > a > span {
+  color: #fff;
+}
 .media-icons {
   display: flex;
   justify-content: flex-end;
@@ -397,7 +400,7 @@ div.shoes {
 .add-cart:hover {
   background-color: rgba(233, 16, 16, 0.774);
 }
-#cart a {
+a {
   text-decoration: none;
   -moz-text-decoration-style: none;
 }
@@ -408,7 +411,6 @@ div.shoes {
       "header header"
       "main main"
       "footer footer";
-    /* display: flex; */
     width: 100vw;
   }
   header {
@@ -425,7 +427,6 @@ div.shoes {
     display: flex;
     justify-content: center;
     position: relative;
-    /* left: -4em; */
     color: black;
   }
   #company-heading span {
