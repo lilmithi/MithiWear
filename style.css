@@ -216,7 +216,7 @@ nav {
   width: 20vw;
   height: 100vh;
   overflow-y: auto;
-  border-right: solid 1px red;
+  border-right: solid 2px red;
   border-top: none;
 }
 
